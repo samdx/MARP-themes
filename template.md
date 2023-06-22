@@ -33,7 +33,9 @@ Date, time and place
 # Your Title Goes Here
 ## One
 
-- Abc def gh
+Some example image:
+
+![Example IMG](./template-example-img.png)
 
 ---
 
