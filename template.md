@@ -40,7 +40,17 @@ Date, time and place
 # Your Title Goes Here
 ## Two
 
-- Abc def gh
+Some example code:
+
+```python
+import sys, os
+
+def hello(name):
+  print("Hello, ", name)
+
+if __name__ == '__main__':
+  main()
+```
 
 ---
 
