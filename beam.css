@@ -3,7 +3,7 @@
 @import "default";
 
 :root {
-  font-family: "CMU Serif", "Segoe UI", Helvetica, sans-serif;
+  font-family: "Lora", "Segoe UI", Helvetica, sans-serif;
   --main: #1f38c5;
   --secondary: #141414;
 }
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* only apply to the first occurrence of h1 */
 h1:nth-of-type(1) {
-  font-family: "CMU Bright", "Segoe UI Semibold";
+  font-family: "Lora", "Segoe UI Semibold";
   font-weight: bold;
   color: #ffffff;
   background-color: var(--main);
@@ -97,7 +97,7 @@ img[alt~="center"] {
 /* title page - only to be used as for a single slide */
 /* <!-- _class: title --> */
 section.title>h1 {
-  font-family: "CMU Bright", "Segoe UI Semibold";
+  font-family: "Lora", "Segoe UI Semibold";
   font-weight: bold;
   color: #ffffff;
   background-color: var(--main);
